@@ -2,6 +2,12 @@ sachin:
   first_name: "Sachin"
   last_name: "Virdy"
   email: "svirdy1@gmail.com"
-  profile_name: "sachin"
+  profile_name: "sachinvirdy"
   # password: "password"
   # password_confirmation: "password"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
